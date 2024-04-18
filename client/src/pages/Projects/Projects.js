@@ -18,7 +18,7 @@ const Projects = () => {
             <div className="col-md-4">
               <div className="card rounded">
                 <div className="card-image">
-                  <span className="card-notify-badge">Full stack</span>
+                  <span className="card-notify-badge">Mern</span>
                   <img
                     src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg"
                     alt="project1"
@@ -27,7 +27,7 @@ const Projects = () => {
                 <div className="card-image-overly m-auto mt-3">
                   <span className="card-detail-badge">Node</span>
                   <span className="card-detail-badge">Express</span>
-                  <span className="card-detail-badge">react</span>
+                  <span className="card-detail-badge">React</span>
                   <span className="card-detail-badge">Mongodb</span>
                 </div>
                 <div className="card-body text-center">
@@ -38,7 +38,36 @@ const Projects = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                    href="https://github.com/anantarya/Ecommerce.git"
+                  >
+                    View
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="card rounded">
+                <div className="card-image">
+                  <span className="card-notify-badge">Full Stack</span>
+                  <img
+                    src="https://www.shutterstock.com/shutterstock/photos/1942997950/display_1500/stock-photo-edtech-education-technology-distance-learning-online-concept-1942997950.jpg"
+                    alt="project2"
+                  />
+                </div>
+                <div className="card-image-overly m-auto mt-3">
+                  <span className="card-detail-badge">NextJS</span>
+
+                  <span className="card-detail-badge">TypeScript </span>
+                  <span className="card-detail-badge">PostgreSQL</span>
+
+                </div>
+                <div className="card-body text-center">
+                  <div className="ad-title m-auto">
+                    <h5 className="text-uppercase">EdTech LMS Tutorial</h5>
+                  </div>
+                  <a
+                    className="ad-btn"
+                    href="https://github.com/anantarya/LMS-Edtech.git"
                   >
                     View
                   </a>
@@ -50,48 +79,22 @@ const Projects = () => {
                 <div className="card-image">
                   <span className="card-notify-badge">Mern Stack</span>
                   <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR356D-1YtSagN4-_ZdjZ5H9o6PKUO4h12dvw&usqp=CAU"
-                    alt="project2"
-                  />
-                </div>
-                <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">React Native</span>
-
-                  <span className="card-detail-badge">IOS / ANDROID</span>
-                </div>
-                <div className="card-body text-center">
-                  <div className="ad-title m-auto">
-                    <h5 className="text-uppercase">Techinfoyt Coding App</h5>
-                  </div>
-                  <a
-                    className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
-                  >
-                    View
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4">
-              <div className="card rounded">
-                <div className="card-image">
-                  <span className="card-notify-badge">Backend</span>
-                  <img
                     src="https://www.nextwebi.com/assets/img/img-source/mobile-top-banner-28.png"
                     alt="project1"
                   />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">Node</span>
-                  <span className="card-detail-badge">Express</span>
+                  <span className="card-detail-badge">NodeJS</span>
+                  <span className="card-detail-badge">ReactJS</span>
 
-                  <span className="card-detail-badge">NoSQL</span>
+                  <span className="card-detail-badge">MongoDB</span>
+                  <span className="card-detail-badge">Web Sockets</span>
                 </div>
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">
-                    <h5 className="text-uppercase">Techinfoyt Job Portal</h5>
+                    <h5 className="text-uppercase">WebRTC Realtime Voice Chat</h5>
                   </div>
-                  <a className="ad-btn" href="view">
+                  <a className="ad-btn" href="https://github.com/anantarya/clubhouse.git">
                     View
                   </a>
                 </div>
